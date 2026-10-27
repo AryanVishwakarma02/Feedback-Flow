@@ -1,1 +1,1 @@
-# Feedback-Flow
+Most people use Google forms for feedbacks, so we create an app which eases your way of creating feedback and collecting personalised responses , the base idea is simple -> first the Organiser can make a feedback form with the given template available to the user according to different uses like teaching, facilities, sports etc -> second only the students of our college can fill the feedback as our app can connect to student ids which college gives to each student -> next each feedback is stored in a personalized folder which is made by the organiser
